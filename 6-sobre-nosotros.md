@@ -4,70 +4,51 @@ title: Sobre el proyecto
 permalink: /sobre-el-proyecto/
 ---
 
-# Sobre el proyecto
+# Sobre: Plegarias por el dinero y el poder
 
-La Organización Fuerza Estudiantil (OFE), conformada por estudiantes de la Facultad de Economía de la Universidad Nacional Autónoma de México (UNAM) realizó el proyecto, Espístola de un pueblo cansado, con el objetivo de mostrar el tiempo promedio que tarda una persona que trabaja en la manufactura en generar su salario dentro de la jornada laboral.
+Este reportaje forma parte del proyecto: “Las empresas de la fe”, impulsado por las organizaciones y medios de comunicación PODER, Presentes y Altavoz LGBT+. En esta investigación se pretende explicar el origen de las finanzas del denominado: “lobby conservador” en México.
 
-En este estudio y reportaje periodístico, que se realizó de la mano del área de Investigación y Periodismo de [PODER](https://poderlatam.org/),  pretendemos brindar una visión de las condiciones laborales de las personas trabajadoras de la industria manufacturera en México. Mostramos, a grandes rasgos, la relación entre la parte del tiempo que dedica para generar la riqueza del patrón dentro del jornada laboral.
+Todas las denuncias, respecto a los indicadores seleccionados por PODER, se encuentran previamente documentadas por los informes de recomendación emitidos por la Comisión Nacional de Derechos Humanos (CNDH) y/o por registros en medios de comunicación. Las categorías utilizadas son:
 
-Los resultados muestran la explotación laboral de manera numérica y reflejan la vida diaria de las personas que laboran en la manufactura. Esta situación nacional evidencia que incluso con la legislación actual, la condición del trabajador/a es precaria y contradictoria a lo que dice justamente la propia legislación, y termina por beneficiar a los intereses de los grandes empresarios del sector.
+1.-AntiLGB
+2.-Políticas en contra de la reasignación sexogenérica.
+3.-Provida o antiabortistas
+4.-Terapias de conversión
+5.- Movimientos transexcluyentes (TERF)
 
-Con este trabajo estudiantes y periodistas que conformamos la OFE pretendemos que la comunidad utilice esta y otras herramienta para conducir acciones, proyectos, conversaciones, debates y todo tipo de utilización práctica o teórica que se quiera dar. La conciencia de que estos hechos ocurren es el primer paso para dar pauta a los siguientes pasos. Porque consideramos importante dimensionar el problema del reparto inequitativo de la riqueza en todo el mundo, pero con información puntual en México: los abusos de poder de la industria transnacional y la violencia en general en contra de toda persona.
+La metodología utilizada para rastrear el origen de los fondos de estas Organizaciones de la Sociedad Civil es el uso de los Reportes Oficiales de Donatarias autorizadas por la Secretaría de Hacienda y Crédito Público (SHCP). Asimismo se hizo uso del análisis de las bases de datos de Compranet para rastrear los contratos erogados desde los diferentes niveles de gobierno.
 
+También, Agencia Presentes, realizó un análisis sobre todas las iniciativas de ley impulsadas desde los diferentes congresos que tuvieron como fin menoscabar los derechos humanos de la población analizada (mujeres y minorías sexuales).
 
-
-### ¿Qué información encontrarás?:
-
-
-- **Cuáles son las entidades con mayor Tasa de Explotación del país y qué significa.**
-
-- **Qué sectores de la industria de manufactura son quienes se ven beneficiados por esta situación.**
-
-Agricultura, explotación de animales, pesca, extracción de petroleo, minería, agroindustria, industria alimentaria, industria de bebidas, industria textil (de indumentaria y sólo telas), curtido, tala, madera y derivados, refinerías, minería no metálica, industria química, plásticos, industria metálica, maquinaria, fabricación de _hardware_, accesorios electrónicos, equipo de transporte y fabricación de muebles.
-
-- **División del valor del trabajo por género**
-
-- **Transferencia de valor: ¿Por qué en entidades fronterizas el valor del trabajo, respecto a la tasa, es menor? Aquí agregamos el valor de las exportaciones.**
-
-El concepto de la transferencia de valor ocurre cuando un país extrae mayores recursos dado que el valor de la fuerza de trabajo tiene mayor cotización en su mercado.
-La data:
-
-Para este proyecto, PODER, analizó información referente a los años 2008 a 2018. En total se procesaron siete Bases de Datos (bbdd), todas oficiales y emitidas por el Instituto Nacional de Estadística y Geografía (INEGI):
-
-1. ENOE
-2. EMIM
-3. DENUE
-4. Exportaciones por entidad federativa y subsector
-5. Marco geoestadístico de INEGI
-6. Censo de población y vivienda 2020 (habitantes por entidad y densidad de la industria por entidad)
-7. Tipo de cambio de Banxico (2008-2020)
+Sobre los registros de actores, se analizaron documentos de la Secretaría de Economía (SE) referentes a la constitución de actas mercantiles, así como información referente al Registro Mercantil. Se analizaron constituyentes, accionistas e integrantes de las diferentes mesas directivas tanto de las empresas como de las Organizaciones Civiles.
 
 
-### Fuentes:
+### Ligas de interés:
 
-**Solicitudes de acceso a la información a:**  IMSS, STyPS, Cámara de Diputados, INEGI.
-
-**Bases de datos:** INEGI, Banxico, PNT
-
-**Solicitud de entrevista:** Cámara de diputados, Comisión Nacional de Salarios Mínimos, activistas, obreras, abogadas laboristas, periodistas y personas defensoras de derechos humanos.
-
-**Documentos del Archivo General de la Nación (AGN):** Expedientes de la Dirección Federal de Seguridad.
-
+1. [https://cronicadesociales.wordpress.com/2017/11/23/catolicas-presentara-queja-contra-juan-sandoval-iniguez/](https://cronicadesociales.wordpress.com/2017/11/23/catolicas-presentara-queja-contra-juan-sandoval-iniguez/)
+2. [https://cronicadesociales.wordpress.com/2018/10/15/video-de-sandoval-un-discurso-de-odio/](https://cronicadesociales.wordpress.com/2018/10/15/video-de-sandoval-un-discurso-de-odio/)
+3. [https://cronicadesociales.wordpress.com/2015/06/25/presentan-queja-contra-la-iglesia-catolica/](https://cronicadesociales.wordpress.com/2015/06/25/presentan-queja-contra-la-iglesia-catolica/)
+4. [https://cronicadesociales.wordpress.com/2013/05/18/jalisco-cuarto-lugar-en-crimenes-por-homofobia-comunidad-lgbttt/](https://cronicadesociales.wordpress.com/2013/05/18/jalisco-cuarto-lugar-en-crimenes-por-homofobia-comunidad-lgbttt/)
+5. [https://www.proceso.com.mx/nacional/2010/11/3/en-jalisco-proyecto-para-curar-la-homosexualidad-1866.html](https://www.proceso.com.mx/nacional/2010/11/3/en-jalisco-proyecto-para-curar-la-homosexualidad-1866.html)
+6. [https://www.jornada.com.mx/2010/11/06/estados/027n2est](https://www.jornada.com.mx/2010/11/06/estados/027n2est)
+7. [https://www.gob.mx/correosdemexico/es/articulos/secretaria-de-salud-sepomex-y-fucam-a-c-cancelan-estampilla-en-apoyo-al-combate-del-cancer-de-mama-129611?idiom=es](https://www.gob.mx/correosdemexico/es/articulos/secretaria-de-salud-sepomex-y-fucam-a-c-cancelan-estampilla-en-apoyo-al-combate-del-cancer-de-mama-129611?idiom=es)
+8. [https://www.fucam.org.mx/](https://www.fucam.org.mx/)
+9. [https://www.rompeviento.tv/fucam-se-queda-sin-recursos-por-no-lograr-acuerdo-con-insabi/](https://www.rompeviento.tv/fucam-se-queda-sin-recursos-por-no-lograr-acuerdo-con-insabi/)
+10. [https://www.sinembargo.mx/24-04-2019/3569837](https://www.sinembargo.mx/24-04-2019/3569837)
 
 ### Créditos:
-
-- Dirección de Proyecto: Fernanda Hopenhaym, Elena Arengo y Ricardo Balderas
+- Dirección de Proyecto: Fernanda Hopenhaym y Elena Arengo
 - Coordinación Periodística: Ricardo Balderas
-- Coordinación Académica: Samuel Rosado-Zaidi, Adriana Martínez Rodríguez y Octavio Rosas Landa Ramos
-- Coordinación Técnica: Marisol Carrillo y Samuel Rosado-Zaidi
+- Alianza de medios: PODER, Presentes y Altavoz LGBT+
+- Coordinación Técnica: Marisol Carrillo y Ricardo Balderas
 - Edición editorial: Fernanda Hopenhaym
-- Investigadorxs: Hannia Paola Martínez Olmos, Jesús Abraham Jiménez Olvera, Erick Romero Morales, Edwin Valencia Galván, Adriana Martínez Rodríguez y Martha Jocelyne De los Ríos Gómez.
-- Análisis de datos: Samuel Rosado-Zaidi y Ricardo Balderas
-- Diseño gráfico y desarrollo front-end: Marisol Carrillo
+- Periodistas investigadorxs: David Adrián García, Geo González, Ana Flores y Ricardo Balderas
+- Análisis y sistematización de datos: Ricardo Balderas
+- Diseño gráfico y desarrollo front-end: Marisol Carrillo y Dani Scharf
 - Desarrollo back-end: Marisol Carrillo
-- Ilustración y material gráfico: Ricardo Balderas y Samuel Rosado-Zaidi.
+- Visualización de datos y material fotográfico: Ricardo Balderas.
 
-Agradecemos a la Facultad de Economía de la Universidad Nacional Autónoma de México (UNAM) por la disposición y las facilidades en este proyecto. A todo el equipo de PODER por siempre luchar por un lugar más justo en el mundo.
+Agradecemos a los equipos de PODER, Presentes y Altavoz por confiar en el desarrollo de este proyecto, en especial al equipo de investigación de PODER por sus ideas, acompañamiento y solidaridad. Por compartir la posibilidad de un mundo más justo donde todes seamos parte de la democracia y la vida pública.
 
 
 

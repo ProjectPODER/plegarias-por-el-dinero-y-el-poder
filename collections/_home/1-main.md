@@ -13,11 +13,12 @@ media-left: false
 
 
 ---
-# EPÍSTOLA DE UN PUEBLO CANSADO
+# PLEGARIAS POR EL DINERO Y EL PODER
 
-Cada 1º de mayo, el mundo entero recuerda a los mártires del derecho laboral. Los obreros mártires de la ciudad de Chicago. Y con el paso del tiempo las convenciones internacionales, las constituciones en todo el mundo y todo tipo de leyes, hacen lo propio. Sin embargo, las empresas, las caníbales y exitosas empresas, siguen sin enterarse de lo que ocurrió aquel fatídico día donde un grupo de obreros fue ejecutado por participar en las protestas por jornadas justas de trabajo. Aquí, en estas palabras que hacen omisión de la economía del lenguaje, les platicamos un poco de lo que nos heredan esas luchas a nosotrxs, el vecino del sur.
+En México, empresarios como María Teresa Redo De Sánchez Navarro o María Asunción Aramburuzabala; políticos, principalmente militantes del Partido Acción Nacional (PAN) como Marta Sahagún de Fox; y, religiosos extremistas (legionarios de cristo y opus dei) de orden católico como Juan Sandoval Iñiguéz o Norberto Rivera construyeron alianzas corporativas y financieras por todo el país.
 
-[Decargue los datos generados por la UNAM](https://codeberg.org/samsamros/explotacion-laboral-rs)
+[Grupo Médica Sur y los Legionarios de Cristo](https://poderlatam.org/2023/05/grupo-medica-sur-y-los-legionarios-de-cristo-parte-i/)
+[Cristo y los mercaderes legionarios después de Maciel](https://poderlatam.org/2023/05/cristo-y-los-mercaderes-legionarios-despues-de-maciel-segunda-parte/)
 
 
 
