@@ -1,0 +1,88 @@
+body {
+    background-color: #181818;
+    color: #fff;
+}
+
+// @font-face {
+//     font-family: bison;
+//     src: url("../assets/font/Bison-Bold.ttf");
+// }
+
+#contracts_page {
+    ::placeholder {
+        /* Chrome, Firefox, Opera, Safari 10.1+ */
+        color: rgba(255, 255, 255, 0.7);
+        opacity: 1;
+        /* Firefox */
+    }
+
+    :-ms-input-placeholder {
+        /* Internet Explorer 10-11 */
+        color: rgba(255, 255, 255, 0.7);
+    }
+
+    ::-ms-input-placeholder {
+        /* Microsoft Edge */
+        color: rgba(255, 255, 255, 0.7);
+    }
+    .form-control {
+        color: rgba(255, 255, 255, 0.7);
+    }
+    input, .form-control {
+        background-color: #222325 !important;
+    }
+    #contracts_search {
+        tbody tr {
+            background-color: #222325;
+        }
+    }
+    .dataTables_wrapper .dataTables_paginate .paginate_button {
+        color: $primary !important;
+    }
+}
+.gj-picker {
+    background-color: #181818 !important;
+    color: #fff !important;
+}
+.today div {
+    color: $primary !important;
+}
+
+section.page,
+section.posts-page,
+section.post-page,
+section#contracts_page {
+    padding-top: 7rem;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    // font-weight: bold;
+    font-family: 'Anton', sans-serif;
+}
+h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
+    margin-top: 60px;
+}
+
+blockquote {
+    padding: 13.5px 27px;
+    margin: 0 0 27px;
+    font-size: 18px;
+    border-left: 5px solid $primary;
+}
+
+blockquote p:last-child, blockquote ul:last-child, blockquote ol:last-child {
+    margin-bottom: 0;
+}
+
+a {
+    transition: all .35s;
+    word-wrap: break-word;
+}
+
+.min-vh-100 {
+    min-height: 100vh !important;
+}
+
+.embed-responsive-custom::before {
+    padding-top: 60%;
+}
