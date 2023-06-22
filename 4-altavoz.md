@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Altavoz
-permalink: /2023/04/11/juarez-el-laboratorio-del-futuro-distopico.html
+title: Altavoz LGBT+
+permalink: /2023/06/24/la-marcha-del-orgullo-es-nuestra.html
 ---

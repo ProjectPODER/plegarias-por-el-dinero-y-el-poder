@@ -10,11 +10,11 @@ Este reportaje forma parte del proyecto: “Las empresas de la fe”, impulsado 
 
 Todas las denuncias, respecto a los indicadores seleccionados por PODER, se encuentran previamente documentadas por los informes de recomendación emitidos por la Comisión Nacional de Derechos Humanos (CNDH) y/o por registros en medios de comunicación. Las categorías utilizadas son:
 
-1.-AntiLGB
-2.-Políticas en contra de la reasignación sexogenérica.
-3.-Provida o antiabortistas
-4.-Terapias de conversión
-5.- Movimientos transexcluyentes (TERF)
+1. AntiLGB
+2. Políticas en contra de la reasignación sexogenérica.
+3. Provida o antiabortistas
+4. Terapias de conversión
+5. Movimientos transexcluyentes (TERF)
 
 La metodología utilizada para rastrear el origen de los fondos de estas Organizaciones de la Sociedad Civil es el uso de los Reportes Oficiales de Donatarias autorizadas por la Secretaría de Hacienda y Crédito Público (SHCP). Asimismo se hizo uso del análisis de las bases de datos de Compranet para rastrear los contratos erogados desde los diferentes niveles de gobierno.
 
