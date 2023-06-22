@@ -6,7 +6,7 @@ permalink: /sobre-el-proyecto/
 
 # Sobre: Plegarias por el dinero y el poder
 
-Este reportaje forma parte del proyecto: “Las empresas de la fe”, impulsado por las organizaciones y medios de comunicación PODER, Presentes y Altavoz LGBT+. En esta investigación se pretende explicar el origen de las finanzas del denominado: “lobby conservador” en México.
+Este reportaje forma parte del proyecto: “Las empresas de la fe”, impulsado por las organizaciones y medios de comunicación PODER, Presentes y Altavoz LGBTTTIQ+. En esta investigación se pretende explicar el origen de las finanzas del denominado: “lobby conservador” en México.
 
 Todas las denuncias, respecto a los indicadores seleccionados por PODER, se encuentran previamente documentadas por los informes de recomendación emitidos por la Comisión Nacional de Derechos Humanos (CNDH) y/o por registros en medios de comunicación. Las categorías utilizadas son:
 

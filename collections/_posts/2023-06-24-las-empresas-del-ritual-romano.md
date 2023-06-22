@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Las empresas del Ritual Romano
-author: "Ricardo Balderas"
+author: "Geo González"
 ---
 
 En medio de un salón de grandes dimensiones (capaz de albergar a más de 100 personas), cada uno de los asistentes que se encuentran incomunicados dan detalles de su vida sexual y otras intimidades frente a una multitud de perfectos desconocidos. Todo ocurre frente a una cruz de madera con un hombre colgando y con el rostro ensangrentado. Haciendo uso de una tachuela, colgaban sus “pecados” a los pies de la imagen religiosa.
@@ -28,7 +28,7 @@ En 2020 el Grupo de Expertos Forenses Independientes (IFEG, por sus siglas en in
 
 Dicho documento señala, además, que estas violaciones a derechos humanos suceden de manera “muy frecuente” en África y “bastante frecuente” en América Latina y el Caribe, y Asia.
 
-## En México 1 de cada 10 personas LGBTI+ obligadas a la tortura
+## En México 1 de cada 10 personas LGBTTTIQ+ obligadas a la tortura
 
 En México 1 de cada 10 personas LGBTTTIQ+ fueron obligadas por sus padres a acudir con un psicólogo o autoridad religiosa con el fin de “corregirle”. En números absolutos representa 318 mil 791 personas de la diversidad sexual fueron reprimidas de esta manera, de acuerdo a la primera Encuesta Nacional sobre Diversidad Sexual y de Género ([ENDISEG, 2021](https://www.inegi.org.mx/tablerosestadisticos/lgbti/#Poblacion_LGBTI)).
 
@@ -36,7 +36,7 @@ La maestra Lupita Torres, psicóloga con enfoque cognitivo conductual e integran
 
 *“Hay un daño emocional, generando miedo, tensión, agotamiento, frustración. Tiene un impacto psicológico que puede manifestarse en depresión, tendencias suicidas, episodios psicóticos. Pero no sólo es lo mental, también se daña la parte espiritual, que es la pérdida de fé, la pérdida de un Dios. Y a nivel de las relaciones personales también hay daño con la familia. Así mismo, se generan daños sexuales y físicos, se pueden dar sintomatologías como trastornos psicosomáticos (cuando dolores físicos se ven agravados por factores mentales)”.*
 
-Además de los espacios religiosos y terapéuticos donde se practican los ECOSIG, en México se ha [documentado](https://drive.google.com/file/d/17_0C0mMIBQS0EVUc1nNRdKuSHD4eXBni/view?usp=share_link) por organizaciones como el Centro de Apoyo a las Identidades Trans, el Observatorio Nacional de Crímenes de Odio y recientemente por el Cómité de Desaparición Forzada de la ONU, que se utiliza el delito de desaparición para lograr la privación de la libertad y no localización de personas LGBTI+ con el fin de ser reprimidas por este tipo de mecanismos.
+Además de los espacios religiosos y terapéuticos donde se practican los ECOSIG, en México se ha [documentado](https://drive.google.com/file/d/17_0C0mMIBQS0EVUc1nNRdKuSHD4eXBni/view?usp=share_link) por organizaciones como el Centro de Apoyo a las Identidades Trans, el Observatorio Nacional de Crímenes de Odio y recientemente por el Cómité de Desaparición Forzada de la ONU, que se utiliza el delito de desaparición para lograr la privación de la libertad y no localización de personas LGBTTTIQ+ con el fin de ser reprimidas por este tipo de mecanismos.
 
 En la última visita a México del Comité contra la Desaparición Forzada de la ONU se [informó](https://hchr.org.mx/wp/wp-content/uploads/2022/04/Informe-de-visita-a-MX-del-Comite-contra-la-Desaparicion-Forzada-abril-2022.pdf) sobre la [desaparición de persona LGBTTTIQ+](https://agenciapresentes.org/2023/05/22/mexico-crean-el-primer-registro-y-documentacion-de-personas-lgbt-desaparecidas/) y que éstas “habrían sido cometidas por fuerzas de seguridad, o por la delincuencia organizada con distintos niveles de connivencia de las autoridades, y en muchos casos con fines de ‘limpieza social’ o de explotación sexual, frecuentemente tras el internamiento en los llamados ‘centros de terapias de reconversión’”.
 

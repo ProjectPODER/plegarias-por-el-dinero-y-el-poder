@@ -74,9 +74,18 @@ blockquote p:last-child, blockquote ul:last-child, blockquote ol:last-child {
     margin-bottom: 0;
 }
 
+.multicolortext {
+    background-image: linear-gradient(to left, indigo, blue, green, #FFD700, orange, red);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
 a {
     transition: all .35s;
     word-wrap: break-word;
+    @extend .multicolortext;
 }
 
 .min-vh-100 {
