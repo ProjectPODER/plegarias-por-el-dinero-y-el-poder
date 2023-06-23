@@ -103,6 +103,11 @@ El hecho, las declaraciones del Cardenal, la polémica por el financiamiento des
 
 Por ejemplo, la Universidad del Valle de Atemajac (UNIVA campus Guadalajara) le otorgó a Elvira Guadalupe Venegas Fundadora de la firma Valora Conciencia en los Medios, una de las ONG que se vieron beneficiadas con 1 millón 300 mil pesos de dinero público para “convertir personas homosexuales”[^nota3] un diploma por acompañamiento y asesoría familiar[^nota4]. Es decir, academia y estado fomentando la proliferación de estas prácticas ya categorizadas como ilegales en varios estados del país.
 
+{:.image-post}
+![Dani Scharf]({{ site.baseurl }}/assets/img/Empresas de la fe_01.jpg)
+
+                                                            Crédito: Ricardo Balderas/PODER
+
 El dato es relevante dado que de trata del mismo centro universitario donde, según comenta el investigador Rodolfo Bañuelos, se encontró por primera vez con el integrante de los IHEGOS a los que se sometió de manera voluntaria para comprobar los daños a la población sexodivergente consecuencia de estas prácticas. Hasta el cierre de está edición, la universidad no respondió a la solicitud de entrevista realizada por este medio de comunicación.
 
 Del mismo modo que el Gobierno de Emilio González Marquéz le entregó dinero de los contribuyentes a este grupo religioso o la UNIVA certificó con diplomas, el actual Gobierno del Estado de Jalisco, liderado por Enrique Alfaro Ramírez del partido Movimiento Ciudadano, a través de la alcaldía de Zapopan, integró a la asociación civil encargada promover los valores católicos ultraconservadores al programa de Sumemos por Zapopan “A favor de las y los zapopanos”, aseguran en el sitio web de la municipalidad[^nota5].
@@ -118,6 +123,7 @@ Empresas relacionadas a los IHEGOS y a Juan Sandoval Íñiguez, Ex cardenal de J
 3. Courage Latino, Rubén García
 4. Clínica VenSer, Everardo Martínez
 5. Inmuebles SECON S.A. de C.V. (Después, el cardenal renuncia a la administración y entra J. Jesús Quiroz Romo)
+
 
 <div id="carouselControls2" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
