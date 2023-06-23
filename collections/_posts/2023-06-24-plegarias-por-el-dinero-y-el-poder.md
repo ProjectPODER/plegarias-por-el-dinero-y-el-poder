@@ -45,6 +45,7 @@ A pesar de los millonarios y poderosos integrantes del Consejo Directivo, FUCAM 
 
                                                     Crédito: Ricardo Balderas vía transparencia.
 
+<br>
 Al respecto, la senadora Lilly Téllez, del Partido Acción Nacional, envió una carta dirigida a Hugo López-Gatell, subsecretario de salud, reclamando por la pronta atención de las 15 mujeres que eran víctimas de la insuficiencia del sector salud por atender de manera legítima las necesidades de estas personas.
 
 El tema derivó en una respuesta emitida por el titular de comunicación social de Presidencia de la República, Jesús Ramírez Cuevas, vía redes sociales en el que argumentó que: “Ninguna mujer que se atiende en la fundación FUCAM quedará sin atención. Están garantizados tratamientos y medicamentos de todas las pacientes. FUCAM es financiada en su totalidad con recursos públicos, es decir, dinero de todos los mexicanos”[^nota6].
@@ -54,6 +55,7 @@ El tema derivó en una respuesta emitida por el titular de comunicación social 
 
                                                             Crédito: Twitter
 
+<br>
 Hasta el momento, la atención temprana a pacientes que viven con cáncer de mama continúa siendo un reto para la administración de AMLO.
 
 - Descargue [aquí](https://share.mayfirst.org/s/HoQc6ioondej5Tg?dir=undefined&path=%2FRIC%2FEmpresas%2FNorberto_Rivera_Carrera&openfile=18434703) el registro mercantil de FUCAM A.C.
@@ -98,29 +100,31 @@ En dicha investigación, la conclusión de la periodista coincide con el académ
 
 Algo similar a lo ocurrido con el XIV Congreso Mundial de las Familias México, donde abiertamente se promueve la LGBTfobia y donde se llama, a cierto sector del movimiento feminista, como “ideología de género”. Dicho evento fue patrocinado por las empresas Electrolit, Alpura, Aeroméxico, Verbum y Grupo Caabsa. Todo sin aclarar montos y/u origen del dinero.
 
-<div id="carouselControls" class="carousel slide" data-ride="carousel">
+<div id="carouselControls4" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/CMF.jpeg" alt="First slide">
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/CMF_01.jpeg" alt="Second slide">
-      </div>
-  <div class="carousel-control-prev" href="#carouselControls" role="button" data-slide="prev">
+    </div>
+  </div>
+  <div class="carousel-control-prev" href="#carouselControls4" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </div>
-  <div class="carousel-control-next" href="#carouselControls" role="button" data-slide="next">
+  <div class="carousel-control-next" href="#carouselControls4" role="button" data-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </div>
 </div>
 
 <br>
-<hr style= "background:rgba(255,255,255,0.7);">
+
 
                                                               Crédito: Twitter
 
+<br>
 **En entrevista exclusiva para poder, la periodista finaliza:**
 
 Me puedes compartir tu nombre, tus pronombres y una breve descripción de ti y tu trabajo, por favor.
@@ -134,7 +138,7 @@ Estudié la licenciatura de periodismo en la Carlos Septién García y una maest
 
                                                               Crédito: Linaloe Flores
 
-
+<br>
 Batería de preguntas:
 
 **1.- ¿Cómo fue que llegaste a la investigación?**
