@@ -18,6 +18,11 @@ En total, PODER pudo identificar a 48 razones sociales denominadas como: asociac
 
 Te puede interesar: [Cristo y los mercaderes: Legionarios después de Maciel](https://poderlatam.org/2023/05/cristo-y-los-mercaderes-legionarios-despues-de-maciel-segunda-parte/)
 
+{:.image-post}
+![Dani Scharf]({{ site.baseurl }}/assets/img/ILUSTRA_DANI_1.jpg)
+
+                                                            Crédito: Dani Scharf
+
 
 ## La salud de la mujer como pretexto para juntar millonarios
 
@@ -34,17 +39,27 @@ La invitación a personajes polémicos, como Norberto Rivera, a formar parte de 
 A pesar de los millonarios y poderosos integrantes del Consejo Directivo, FUCAM aparece en la discusión pública actual debido a una manifestación realizada en las afueras de Palacio Nacional cuando la institución se negó a recibir a mujeres que no estuvieran adscritas al sistema de FUCAM antes del 31 de diciembre de 2019 a pesar de los acuerdos instaurados entre la fundación y el ahora extinto Instituto de Salud para el Bienestar (INSABI)[^nota5].
 
 {:.image-post}
-![]({{ site.baseurl }}/assets/img/)
+![INFORME_CNDH]({{ site.baseurl }}/assets/img/CNDH_IHEGOS.png)
 
-[IMAGEN_CNDH]
+                                                    Crédito: Ricardo Balderas vía transparencia.
 
 Al respecto, la senadora Lilly Téllez, del Partido Acción Nacional, envió una carta dirigida a Hugo López-Gatell, subsecretario de salud, reclamando por la pronta atención de las 15 mujeres que eran víctimas de la insuficiencia del sector salud por atender de manera legítima las necesidades de estas personas.
 
 El tema derivó en una respuesta emitida por el titular de comunicación social de Presidencia de la República, Jesús Ramírez Cuevas, vía redes sociales en el que argumentó que: “Ninguna mujer que se atiende en la fundación FUCAM quedará sin atención. Están garantizados tratamientos y medicamentos de todas las pacientes. FUCAM es financiada en su totalidad con recursos públicos, es decir, dinero de todos los mexicanos”[^nota6].
 
+{:.image-post}
+![Jesús Ramírez]({{ site.baseurl }}/assets/img/Jesús.png)
+
+                                                            Crédito: Twitter
+
 Hasta el momento, la atención temprana a pacientes que viven con cáncer de mama continúa siendo un reto para la administración de AMLO.
 
-- Descargue aquí el registro mercantil de FUCAM A.C.
+- Descargue [aquí](https://share.mayfirst.org/s/HoQc6ioondej5Tg?dir=undefined&path=%2FRIC%2FEmpresas%2FNorberto_Rivera_Carrera&openfile=18434703) el registro mercantil de FUCAM A.C.
+
+{:.image-post}
+![Acta]({{ site.baseurl }}/assets/img/millonarios y políticos.png)
+
+                                                       Crédito: Ricardo Balderas vía transparencia
 
 ## Católicos encabezan ataques contra la población sexodiversa y lideran movimiento antiaborto
 
@@ -82,9 +97,12 @@ En dicha investigación, la conclusión de la periodista coincide con el académ
 Algo similar a lo ocurrido con el XIV Congreso Mundial de las Familias México, donde abiertamente se promueve la LGBTfobia y donde se llama, a cierto sector del movimiento feminista, como “ideología de género”. Dicho evento fue patrocinado por las empresas Electrolit, Alpura, Aeroméxico, Verbum y Grupo Caabsa. Todo sin aclarar montos y/u origen del dinero.
 
 {:.image-post}
-![]({{ site.baseurl }}/assets/img/)
+![CMF]({{ site.baseurl }}/assets/img/CMF_01.jpeg)
 
-[FOTOS_CMF]
+{:.image-post}
+![CMF]({{ site.baseurl }}/assets/img/CMF.jpeg)
+
+                                                              Crédito: Twitter
 
 En entrevista exclusiva para poder, la periodista finaliza:
 
@@ -93,6 +111,11 @@ Me puedes compartir tu nombre, tus pronombres y una breve descripción de ti y t
 Linaloe R. Flores.
 He sido ella hasta ahora. Muchas ellas. Aunque, algunas veces, tuve como heterónimo a Ginés quien es un él.
 Estudié la licenciatura de periodismo en la Carlos Septién García y una maestría en Letras Hispánicas en la Universidad Nacional Autónoma de México. He sido reportera durante las últimas tres décadas. Me he abocado a los datos abiertos. En estos momentos soy jefa de información en Reporte Índigo, mentora en el Border Hub Center y mando por correo electrónico La Cerradura, una ‘newsletter’ de agenda propia.
+
+{:.image-post}
+![Linaloe Flores]({{ site.baseurl }}/assets/img/LINALOE.jpeg)
+
+                                                              Crédito: Linaloe Flores
 
 
 Batería de preguntas:
