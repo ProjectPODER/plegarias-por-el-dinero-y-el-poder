@@ -64,7 +64,7 @@ Encontramos que actualmente las ‘terapias de conversión’ están tipificadas
 
 Además, ninguna de estas leyes contempla a las víctimas y sobrevivientes; pues no se establecen medidas de reparación del daño, ni garantías de no repetición, y en ningúna se habla de prevención o de una ruta de atención a víctimas para el acceso a la justicia.
 
-*cuadro mapa legislativo IHEGOS México
+<div class="flourish-embed flourish-table" data-src="visualisation/14149173"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 La sanción en cada una de estas reformas es un tiempo en prisión que va de uno a seis años o el pago de una multa económica a quien *“imparta, promueva, ofrezca, financie, someta u obligue”* a una persona a una ‘terapia de conversión’. Dicha multa está sujeta al valor diario de la Unidad de Medida y Actualización (UMA).
 
@@ -203,6 +203,8 @@ Empresas relacionadas a los IHEGOS y a Juan Sandoval Íñiguez, Ex cardenal de J
     <span class="sr-only">Next</span>
   </div>
 </div>
+
+                                                  Crédito: Geo González
 
 [^nota1]: [Papa Francisco considera que la psiquiatría puede “corregir” a un niño homosexual (2017). La mala fe.](https://lamalafe.lat/papa-francisco-considera-que-la-psiquiatria-puede-corregir-a-un-nino-homosexual/)
 [^nota2]: [Sandoval Íñiguez, Juan Sandoval (2009). Panorama de la situación actual de la formación sacerdotal en los seminarios de América Latina. Pontificia comisión para América Latina.](https://www.vatican.va/roman_curia/congregations/cbishops/pcal/documents/rc_cbishops_pcal_20090217_formacion-sacerdotal_sp.html)
