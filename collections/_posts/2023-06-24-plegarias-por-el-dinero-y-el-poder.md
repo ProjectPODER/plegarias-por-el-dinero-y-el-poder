@@ -54,7 +54,12 @@ El tema derivó en una respuesta emitida por el titular de comunicación social 
 
 Hasta el momento, la atención temprana a pacientes que viven con cáncer de mama continúa siendo un reto para la administración de AMLO.
 
-- Descargue aquí el registro mercantil de FUCAM A.C.
+- Descargue [aquí](https://share.mayfirst.org/s/HoQc6ioondej5Tg?dir=undefined&path=%2FRIC%2FEmpresas%2FNorberto_Rivera_Carrera&openfile=18434703) el registro mercantil de FUCAM A.C.
+
+{:.image-post}
+![Jesús Ramírez]({{ site.baseurl }}/assets/img/millonarios y políticos.png)
+
+                                                            Crédito: Ricardo Balderas vía transparencia
 
 ## Católicos encabezan ataques contra la población sexodiversa y lideran movimiento antiaborto
 
