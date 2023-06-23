@@ -17,7 +17,12 @@ Este testimonio fue seleccionado, dentro de otras más de cuatro horas de audios
 
 Desde [2015](https://www.ohchr.org/en/statements/2015/05/discriminated-and-made-vulnerable-young-lgbt-and-intersex-people-need?LangID=E&NewsID=15941) la Organización de Naciones Unidas (ONU) y asociaciones de psiquiatría alrededor del mundo han nombrado a estas prácticas como Esfuerzos para Corregir la Orientación Sexual y la Identidad de Género (ECOSIG), procedimientos que califican de fraudulentos, sin bases éticas ni científicas y equivalentes a la tortura.
 
-Nada que corregir. Para el doctor en Derechos Humanos y Paz, Rodolfo Bañuelos de la universidad ITESO en Guadalajara, el conocer el trasfondo de estas organizaciones es el resultado del trabajo y años de investigación con la que intenta demostrar las implicaciones que tienen las Terapias de Conversión en la población LGBTTTIQ+, y a las que él llama: Intervenciones para Heteronormar la Identidad de Género y la Orientación Sexual (IHEGOS)
+Nada que corregir. Para el doctor en Derechos Humanos y Paz, Rodolfo Bañuelos de la universidad ITESO en Guadalajara, el conocer el trasfondo de estas organizaciones es el resultado del trabajo y años de investigación con la que intenta demostrar las implicaciones que tienen las Terapias de Conversión en la población LGBTTTIQ+, y a las que él llama: Intervenciones para Heteronormar la Identidad de Género y la Orientación Sexual (IHEGOS).
+
+{:.image-post}
+![Dani Scharf]({{ site.baseurl }}/assets/img/Empresas de la fe_01.jpg)
+
+                                                            Crédito: Ricardo Balderas/PODER
 
 ## Es tortura, no terapia
 
@@ -102,11 +107,6 @@ Por ejemplo, para Juan Sandoval Iñiguez, Ex Cardenal de Jalisco, la homosexuali
 El hecho, las declaraciones del Cardenal, la polémica por el financiamiento desde el estado a estos grupos y la revelación de los casos de tortura, generaron una fuerte campaña de proteccionismo a esta comunidad vulnerable que llevó al país entero a intentar legislar para que estos hechos fueran anulados del país, sin embargo, gracias a las relaciones principalmente empresariales y políticas, estos grupos continúan operando.
 
 Por ejemplo, la Universidad del Valle de Atemajac (UNIVA campus Guadalajara) le otorgó a Elvira Guadalupe Venegas Fundadora de la firma Valora Conciencia en los Medios, una de las ONG que se vieron beneficiadas con 1 millón 300 mil pesos de dinero público para “convertir personas homosexuales”[^nota3] un diploma por acompañamiento y asesoría familiar[^nota4]. Es decir, academia y estado fomentando la proliferación de estas prácticas ya categorizadas como ilegales en varios estados del país.
-
-{:.image-post}
-![Dani Scharf]({{ site.baseurl }}/assets/img/Empresas de la fe_01.jpg)
-
-                                                            Crédito: Ricardo Balderas/PODER
 
 El dato es relevante dado que de trata del mismo centro universitario donde, según comenta el investigador Rodolfo Bañuelos, se encontró por primera vez con el integrante de los IHEGOS a los que se sometió de manera voluntaria para comprobar los daños a la población sexodivergente consecuencia de estas prácticas. Hasta el cierre de está edición, la universidad no respondió a la solicitud de entrevista realizada por este medio de comunicación.
 
