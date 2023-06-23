@@ -57,9 +57,9 @@ Hasta el momento, la atención temprana a pacientes que viven con cáncer de mam
 - Descargue [aquí](https://share.mayfirst.org/s/HoQc6ioondej5Tg?dir=undefined&path=%2FRIC%2FEmpresas%2FNorberto_Rivera_Carrera&openfile=18434703) el registro mercantil de FUCAM A.C.
 
 {:.image-post}
-![Jesús Ramírez]({{ site.baseurl }}/assets/img/millonarios y políticos.png)
+![Acta]({{ site.baseurl }}/assets/img/millonarios y políticos.png)
 
-                                                            Crédito: Ricardo Balderas vía transparencia
+                                                       Crédito: Ricardo Balderas vía transparencia
 
 ## Católicos encabezan ataques contra la población sexodiversa y lideran movimiento antiaborto
 
@@ -97,9 +97,12 @@ En dicha investigación, la conclusión de la periodista coincide con el académ
 Algo similar a lo ocurrido con el XIV Congreso Mundial de las Familias México, donde abiertamente se promueve la LGBTfobia y donde se llama, a cierto sector del movimiento feminista, como “ideología de género”. Dicho evento fue patrocinado por las empresas Electrolit, Alpura, Aeroméxico, Verbum y Grupo Caabsa. Todo sin aclarar montos y/u origen del dinero.
 
 {:.image-post}
-![]({{ site.baseurl }}/assets/img/)
+![CMF]({{ site.baseurl }}/assets/img/CMF_01.jpeg)
 
-[FOTOS_CMF]
+{:.image-post}
+![CMF]({{ site.baseurl }}/assets/img/CMF.jpeg)
+
+                                                              Crédito: Twitter
 
 En entrevista exclusiva para poder, la periodista finaliza:
 
@@ -108,6 +111,11 @@ Me puedes compartir tu nombre, tus pronombres y una breve descripción de ti y t
 Linaloe R. Flores.
 He sido ella hasta ahora. Muchas ellas. Aunque, algunas veces, tuve como heterónimo a Ginés quien es un él.
 Estudié la licenciatura de periodismo en la Carlos Septién García y una maestría en Letras Hispánicas en la Universidad Nacional Autónoma de México. He sido reportera durante las últimas tres décadas. Me he abocado a los datos abiertos. En estos momentos soy jefa de información en Reporte Índigo, mentora en el Border Hub Center y mando por correo electrónico La Cerradura, una ‘newsletter’ de agenda propia.
+
+{:.image-post}
+![Linaloe Flores]({{ site.baseurl }}/assets/img/LINALOE.jpeg)
+
+                                                              Crédito: Linaloe Flores
 
 
 Batería de preguntas:
