@@ -4,6 +4,9 @@ title: La marcha del orgullo es nuestra
 author: "David Adrián García"
 ---
 
+{:.image-post}
+![Marcha LGBTTTIQ+]({{ site.baseurl }}/assets/img/lgbt/DSC0074.jpg)
+
 Era mayo de 2016 y la Marcha del Orgullo LGBTTTIQ+ de Chihuahua se encontraba en una etapa de rápida expansión, cada vez con más asistentes. El Comité de la Diversidad Sexual de Chihuahua, organizadores por segundo año consecutivo de la marcha (que sería la novena en la ciudad), sabían que necesitaban superar la expectativas. Karla Arvizo era una de las coordinadoras y recuerda que por primera vez decidieron buscar apoyos de empresas. Fue así que se les ocurrió pedir el apoyo de un banco para la marcha:
 
 “Contactamos a Scotiabank por medio de José Antonio Carranza, le pedimos apoyo para comprar banderas que regalaríamos a los asistentes para vestir la marcha para que se viera colorido, y nos dijeron que sí, que nos iban a apoyar. Incluso nos mandaron el diseño con el logo de ‘Pride Connection’ para ponerlo a las banderas”.

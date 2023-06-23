@@ -4,6 +4,9 @@ title: Las empresas del Ritual Romano
 author: "Geo González"
 ---
 
+{:.image-post}
+![Marcha LGBTTTIQ+]({{ site.baseurl }}/assets/img/lgbt/14388934.jpg)
+
 En medio de un salón de grandes dimensiones (capaz de albergar a más de 100 personas), cada uno de los asistentes que se encuentran incomunicados dan detalles de su vida sexual y otras intimidades frente a una multitud de perfectos desconocidos. Todo ocurre frente a una cruz de madera con un hombre colgando y con el rostro ensangrentado. Haciendo uso de una tachuela, colgaban sus “pecados” a los pies de la imagen religiosa.
 
 Todos ahí, salvo unas pocas personas (dos, quizás tres), son menores de edad que fueron privados de su libertad con autorización por escrito de sus padres para ser expuestos a un sistema de tortura que, entre otras cosas, oscila entre las violaciones colectivas (o coito correctivo como ellos lo llaman), electrochoques en el área genital, culpa extrema por sus prácticas sodomitas bajo la supuesta responsabilidad de seres del inframundo por ese deseo carnal que los organizadores de este ritual tratan de exterminar.

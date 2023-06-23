@@ -3,6 +3,8 @@ layout: post
 title: Plegarias por el dinero y el poder
 author: "Ricardo Balderas"
 ---
+{:.image-post}
+![Marcha LGBTTTIQ+]({{ site.baseurl }}/assets/img/lgbt/14348733.jpg)
 
 En México, empresarios como María Teresa Redo De Sánchez Navarro o María Asunción Aramburuzabala; políticos, principalmente militantes del Partido Acción Nacional (PAN) como Marta Sahagún de Fox; y, religiosos extremistas (Legionarios de Cristo y Opus Dei) de orden católico como Juan Sandoval Iñiguéz o Norberto Rivera construyeron alianzas corporativas y financieras por todo el país.
 
