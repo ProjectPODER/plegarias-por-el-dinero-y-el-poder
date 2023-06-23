@@ -116,7 +116,54 @@ Empresas relacionadas a los IHEGOS y a Juan Sandoval Íñiguez, Ex cardenal de J
 4. Clínica VenSer, Everardo Martínez
 5. Inmuebles SECON S.A. de C.V. (Después, el cardenal renuncia a la administración y entra J. Jesús Quiroz Romo)
 
-
+<div id="carouselControls2" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/Geo/Geo_Gonzalez_1.JPG" alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/Geo/Geo_Gonzalez_2.jpg" alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/Geo/Geo_Gonzalez_3.JPG" alt="Third slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/Geo/Geo_Gonzalez_4.JPG" alt="Third slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/Geo/Geo_Gonzalez_5.jpg" alt="Third slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/Geo/Geo_Gonzalez_6.jpg" alt="Third slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/Geo/Geo_Gonzalez_7.jpg" alt="Third slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/Geo/Geo_Gonzalez_8.jpg" alt="Third slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/Geo/Geo_Gonzalez_9.jpg" alt="Third slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/Geo/Geo_Gonzalez_10.JPG" alt="Third slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/Geo/Geo_Gonzalez_11.jpg" alt="Third slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/Geo/Geo_Gonzalez_12.JPG" alt="Third slide">
+    </div>
+  </div>
+  <div class="carousel-control-prev" href="#carouselControls2" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </div>
+  <div class="carousel-control-next" href="#carouselControls2" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </div>
+</div>
 
 [^nota1]: [Papa Francisco considera que la psiquiatría puede “corregir” a un niño homosexual (2017). La mala fe.](https://lamalafe.lat/papa-francisco-considera-que-la-psiquiatria-puede-corregir-a-un-nino-homosexual/)
 [^nota2]: [Sandoval Íñiguez, Juan Sandoval (2009). Panorama de la situación actual de la formación sacerdotal en los seminarios de América Latina. Pontificia comisión para América Latina.](https://www.vatican.va/roman_curia/congregations/cbishops/pcal/documents/rc_cbishops_pcal_20090217_formacion-sacerdotal_sp.html)

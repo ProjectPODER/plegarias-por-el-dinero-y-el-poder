@@ -88,35 +88,41 @@ Sin embargo, existen quienes consideran que la presencia empresarial es innecesa
 ![]({{ site.baseurl }}/assets/img/)
 
 
-<div id="carouselControls" class="carousel slide" data-ride="carousel">
+<div id="carouselControls3" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/CUIDADOHIJ.svg" alt="First slide">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/david/1.jpg" alt="First slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/ESCOLARIDAD.svg" alt="Second slide">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/david/2.jpg" alt="Second slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/FORMALIDAD.svg" alt="Third slide">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/david/3.jpg" alt="Third slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/MujeresvsHombresManufactura.svg" alt="Third slide">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/david/4.jpg" alt="Third slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/SALARIOSMINIMOS.svg" alt="Third slide">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/david/5.jpg" alt="Third slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/SeguridadSocial.svg" alt="Third slide">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/david/6.jpg" alt="Third slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/TIPOCONTRATO.svg" alt="Third slide">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/david/7.jpg" alt="Third slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/david/8.jpg" alt="Third slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/david/9.jpg" alt="Third slide">
     </div>
   </div>
-  <div class="carousel-control-prev" href="#carouselControls" role="button" data-slide="prev">
+  <div class="carousel-control-prev" href="#carouselControls3" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </div>
-  <div class="carousel-control-next" href="#carouselControls" role="button" data-slide="next">
+  <div class="carousel-control-next" href="#carouselControls3" role="button" data-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </div>

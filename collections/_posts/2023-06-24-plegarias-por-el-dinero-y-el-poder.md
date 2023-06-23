@@ -152,6 +152,48 @@ Si bien en México se cuenta con una palestra de mecanismos de transparencia, to
 
 En realidad, no. Recuerdo como reacción a la nota que un usuario de Twitter hizo su propio ejercicio de búsqueda de donativos de las organizaciones civiles que han apoyado la la Interrupción Legal del Embarazo. También una activista feminista, Pilar Muriedas, señaló que no eran grupos “pro-vida”. Me arrobaron. Y eso fue todo.
 
+<div id="carouselControls" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/lgbt/14348733.jpg" alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/lgbt/14388934.jpg" alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/lgbt/DSC0049.jpg" alt="Third slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/lgbt/DSC0050.jpg" alt="Third slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/lgbt/DSC0054.jpg" alt="Third slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/lgbt/DSC0059.jpg" alt="Third slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/lgbt/DSC0070.jpg" alt="Third slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/lgbt/DSC0074.jpg" alt="Third slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/lgbt/DSC0075.jpg" alt="Third slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/lgbt/DSC0077.jpg" alt="Third slide">
+    </div>
+  </div>
+  <div class="carousel-control-prev" href="#carouselControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </div>
+  <div class="carousel-control-next" href="#carouselControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </div>
+</div>
 
 <br>
 <hr style= "background:rgba(255,255,255,0.7);">
@@ -159,6 +201,7 @@ En realidad, no. Recuerdo como reacción a la nota que un usuario de Twitter hiz
 Descargue [aquí]() la base de datos de empresas, asociaciones civiles sin fines de lucro o personas físicas que recibieron fondos del Estado, donaciones privadas o recursos en especia (también de origen privado) en México durante el periodo correspondiente al 2022.
 
 *Independientemente de cualquier posición que se pueda tener respecto al aborto, movimientos feministas o la población de las minorías sexuales, lo aquí mencionado, no desacredita todo tipo de trabajo social de las asociaciones o empresas mencionadas en esta investigación.*
+
 
 [^nota1]: [Redacción Quién (2022). Lo que debes saber de Mercedes Sánchez Navarro, la nueva novia de Carlos Slim.](https://www.quien.com/circulos/2022/04/01/mercedes-sanchez-navarro-nueva-novia-de-carlos-slim-helu)
 [^nota2]: [Escobar, Jesus (2021). Norberto Rivera, el cardenal que protegió a pederastas como Maciel y amigo de millonarios. La Octava.](https://www.youtube.com/watch?v=hBpWm9hWL1w)
