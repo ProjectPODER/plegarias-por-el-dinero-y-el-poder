@@ -98,11 +98,26 @@ En dicha investigación, la conclusión de la periodista coincide con el académ
 
 Algo similar a lo ocurrido con el XIV Congreso Mundial de las Familias México, donde abiertamente se promueve la LGBTfobia y donde se llama, a cierto sector del movimiento feminista, como “ideología de género”. Dicho evento fue patrocinado por las empresas Electrolit, Alpura, Aeroméxico, Verbum y Grupo Caabsa. Todo sin aclarar montos y/u origen del dinero.
 
-{:.image-post}
-![CMF]({{ site.baseurl }}/assets/img/CMF_01.jpeg)
+<div id="carouselControls" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/CMF.jpeg" alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/CMF_01.jpeg" alt="Second slide">
+      </div>
+  <div class="carousel-control-prev" href="#carouselControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </div>
+  <div class="carousel-control-next" href="#carouselControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </div>
+</div>
 
-{:.image-post}
-![CMF]({{ site.baseurl }}/assets/img/CMF.jpeg)
+<br>
+<hr style= "background:rgba(255,255,255,0.7);">
 
                                                               Crédito: Twitter
 
