@@ -1,5 +1,7 @@
 .multicolorbtn {
-    background-color: linear-gradient(to left, indigo, blue, green, #FFD700, orange, red) !important;
+    background: linear-gradient(to left, indigo, blue, green, #FFD700, orange, red) !important;
+    color: #ffffff;
+    border: none ;
 }
 
 .home-content {
@@ -22,7 +24,7 @@
         margin-bottom: 2rem;
         font-family: 'Anton', sans-serif;
         // color: $primary;
-        text-shadow: #8e0015 5px 3px 1px;
+        text-shadow: #0C3FF0 5px 3px 1px;
     }
 
     h1,
@@ -31,12 +33,13 @@
     }
     p {
         font-size: 1.6rem;
-        text-shadow: #333333 1.5px 3px 3px;
+        text-shadow: #333333 1px 1px 5px;
     }
     a {
         @extend .btn;
         @extend .multicolorbtn;
         margin: 2rem 0.5rem 1rem 0.5rem;
+        font-weight: bold;
     }
 }
 
