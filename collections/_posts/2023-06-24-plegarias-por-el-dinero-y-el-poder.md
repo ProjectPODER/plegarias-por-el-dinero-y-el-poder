@@ -19,7 +19,7 @@ En total, PODER pudo identificar a 48 razones sociales denominadas como: asociac
 Te puede interesar: [Cristo y los mercaderes: Legionarios después de Maciel](https://poderlatam.org/2023/05/cristo-y-los-mercaderes-legionarios-despues-de-maciel-segunda-parte/)
 
 {:.image-post}
-![D_S]({{ site.baseurl }}/assets/img/_ORIGINAL PODER LATAM - PLEGARIAS POR EL PODER - 1300 x800 FULL.jpg)
+![Dani Scharf]({{ site.baseurl }}/assets/img/_ORIGINALPODERLATAM-PLEGARIASPORELPODER-1300x800FULL.jpg)
 
                                                             Crédito: Dani Scharf
 
