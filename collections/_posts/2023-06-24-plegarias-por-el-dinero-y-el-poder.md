@@ -36,11 +36,16 @@ A pesar de los millonarios y poderosos integrantes del Consejo Directivo, FUCAM 
 {:.image-post}
 ![INFORME_CNDH]({{ site.baseurl }}/assets/img/CNDH_IHEGOS.png)
 
-Crédito: Ricardo Balderas vía transparencia.
+                                                                       Crédito: Ricardo Balderas vía transparencia.
 
 Al respecto, la senadora Lilly Téllez, del Partido Acción Nacional, envió una carta dirigida a Hugo López-Gatell, subsecretario de salud, reclamando por la pronta atención de las 15 mujeres que eran víctimas de la insuficiencia del sector salud por atender de manera legítima las necesidades de estas personas.
 
 El tema derivó en una respuesta emitida por el titular de comunicación social de Presidencia de la República, Jesús Ramírez Cuevas, vía redes sociales en el que argumentó que: “Ninguna mujer que se atiende en la fundación FUCAM quedará sin atención. Están garantizados tratamientos y medicamentos de todas las pacientes. FUCAM es financiada en su totalidad con recursos públicos, es decir, dinero de todos los mexicanos”[^nota6].
+
+{:.image-post}
+![INFORME_CNDH]({{ site.baseurl }}/assets/img/Jesús.png)
+
+Crédito: Twitter
 
 Hasta el momento, la atención temprana a pacientes que viven con cáncer de mama continúa siendo un reto para la administración de AMLO.
 
