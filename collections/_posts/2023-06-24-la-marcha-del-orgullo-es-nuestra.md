@@ -132,6 +132,7 @@ Sin embargo, existen quienes consideran que la presencia empresarial es innecesa
 </div>
 <br>
 
+                                Crédito: David Adrián García
 
 <div class="image-post">
   <a href="https://altavoz.lgbt/" target="_blank">
