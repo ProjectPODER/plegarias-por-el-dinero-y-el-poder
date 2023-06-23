@@ -17,7 +17,12 @@ Este testimonio fue seleccionado, dentro de otras más de cuatro horas de audios
 
 Desde [2015](https://www.ohchr.org/en/statements/2015/05/discriminated-and-made-vulnerable-young-lgbt-and-intersex-people-need?LangID=E&NewsID=15941) la Organización de Naciones Unidas (ONU) y asociaciones de psiquiatría alrededor del mundo han nombrado a estas prácticas como Esfuerzos para Corregir la Orientación Sexual y la Identidad de Género (ECOSIG), procedimientos que califican de fraudulentos, sin bases éticas ni científicas y equivalentes a la tortura.
 
-Nada que corregir. Para el doctor en Derechos Humanos y Paz, Rodolfo Bañuelos de la universidad ITESO en Guadalajara, el conocer el trasfondo de estas organizaciones es el resultado del trabajo y años de investigación con la que intenta demostrar las implicaciones que tienen las Terapias de Conversión en la población LGBTTTIQ+, y a las que él llama: Intervenciones para Heteronormar la Identidad de Género y la Orientación Sexual (IHEGOS)
+Nada que corregir. Para el doctor en Derechos Humanos y Paz, Rodolfo Bañuelos de la universidad ITESO en Guadalajara, el conocer el trasfondo de estas organizaciones es el resultado del trabajo y años de investigación con la que intenta demostrar las implicaciones que tienen las Terapias de Conversión en la población LGBTTTIQ+, y a las que él llama: Intervenciones para Heteronormar la Identidad de Género y la Orientación Sexual (IHEGOS).
+
+{:.image-post}
+![MALTEGO]({{ site.baseurl }}/assets/img/Empresas de la fe_01.jpg)
+
+                                                    Crédito: Ricardo Balderas/PODER
 
 ## Es tortura, no terapia
 
@@ -45,6 +50,11 @@ En la última visita a México del Comité contra la Desaparición Forzada de la
 
 Es así como las prácticas para reprimir la orientación sexual e identidad de género de las personas también se cruzan en el contexto de violencia generalizada que comenzó en 2006 al implementarse la estrategia de seguridad militarizada y que hoy día mantiene al país sumido en una crisis de derechos humanos con más de 111 mil personas desaparecidas y al estado de Jalisco como uno de los territorios en donde más se desaparece a personas.
 
+{:.image-post}
+![ONU]({{ site.baseurl }}/assets/img/ONU_DESAPARICIÓN_FORZADA.png)
+
+                                                  Crédito: Ricardo Balderas vía transparencia
+
 
 ## La creación de un delito, vacíos legales y multas que se pagan con tortura
 
@@ -54,7 +64,7 @@ Encontramos que actualmente las ‘terapias de conversión’ están tipificadas
 
 Además, ninguna de estas leyes contempla a las víctimas y sobrevivientes; pues no se establecen medidas de reparación del daño, ni garantías de no repetición, y en ningúna se habla de prevención o de una ruta de atención a víctimas para el acceso a la justicia.
 
-*cuadro mapa legislativo IHEGOS México
+<div class="flourish-embed flourish-table" data-src="visualisation/14149173"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 La sanción en cada una de estas reformas es un tiempo en prisión que va de uno a seis años o el pago de una multa económica a quien *“imparta, promueva, ofrezca, financie, someta u obligue”* a una persona a una ‘terapia de conversión’. Dicha multa está sujeta al valor diario de la Unidad de Medida y Actualización (UMA).
 
@@ -90,6 +100,31 @@ Y agrega que para ella es vital conversar con otros movimientos sociales; desde 
 
 “Creo que sí tenemos que preguntarnos qué tanto está funcionando la creación de un delito. Necesitamos esos diálogos porque la realidad es que todo el sistema penal en México está en el hoyo. Y también nos hace falta mucha autocrítica al interior de los movimientos; yo sí creo que necesitamos tener transparencia y rendición de cuentas de los fondos que recibimos por hacer una labor social y como tal dar cuentas de qué estamos haciendo y en qué lo estamos usando”, finalizó.
 
+
+<div id="carouselControls2" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/Estados donde se tipifican los ECOSIG en el Código Penal.png" alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/Mención de ECOSIG en Ley para Eliminar la Discriminación(1).png" alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/Reformas a Ley de Salud para sancionar los ECOSIG.png" alt="Third slide">
+    </div>
+  </div>
+  <div class="carousel-control-prev" href="#carouselControls2" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </div>
+  <div class="carousel-control-next" href="#carouselControls2" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </div>
+</div>
+
+                                                            Crédito: Geo gonzález.
+
 ## Las empresas del Ritual Romano
 
 Han pasado ya más de catorce años desde que se denunció a estos grupos por realizar tortura, principalmente a menores de edad que se identifican como integrantes de la comunidad LGBTTTIQ+. Muchos de los cuales, se quitaron la vida luego de ser sometidos a estas prácticas.
@@ -118,6 +153,7 @@ Empresas relacionadas a los IHEGOS y a Juan Sandoval Íñiguez, Ex cardenal de J
 3. Courage Latino, Rubén García
 4. Clínica VenSer, Everardo Martínez
 5. Inmuebles SECON S.A. de C.V. (Después, el cardenal renuncia a la administración y entra J. Jesús Quiroz Romo)
+
 
 <div id="carouselControls2" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
@@ -167,6 +203,8 @@ Empresas relacionadas a los IHEGOS y a Juan Sandoval Íñiguez, Ex cardenal de J
     <span class="sr-only">Next</span>
   </div>
 </div>
+
+                                                  Crédito: Geo González
 
 [^nota1]: [Papa Francisco considera que la psiquiatría puede “corregir” a un niño homosexual (2017). La mala fe.](https://lamalafe.lat/papa-francisco-considera-que-la-psiquiatria-puede-corregir-a-un-nino-homosexual/)
 [^nota2]: [Sandoval Íñiguez, Juan Sandoval (2009). Panorama de la situación actual de la formación sacerdotal en los seminarios de América Latina. Pontificia comisión para América Latina.](https://www.vatican.va/roman_curia/congregations/cbishops/pcal/documents/rc_cbishops_pcal_20090217_formacion-sacerdotal_sp.html)

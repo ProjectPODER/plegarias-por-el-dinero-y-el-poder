@@ -98,15 +98,30 @@ En dicha investigación, la conclusión de la periodista coincide con el académ
 
 Algo similar a lo ocurrido con el XIV Congreso Mundial de las Familias México, donde abiertamente se promueve la LGBTfobia y donde se llama, a cierto sector del movimiento feminista, como “ideología de género”. Dicho evento fue patrocinado por las empresas Electrolit, Alpura, Aeroméxico, Verbum y Grupo Caabsa. Todo sin aclarar montos y/u origen del dinero.
 
-{:.image-post}
-![CMF]({{ site.baseurl }}/assets/img/CMF_01.jpeg)
+<div id="carouselControls" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/CMF.jpeg" alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/CMF_01.jpeg" alt="Second slide">
+      </div>
+  <div class="carousel-control-prev" href="#carouselControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </div>
+  <div class="carousel-control-next" href="#carouselControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </div>
+</div>
 
-{:.image-post}
-![CMF]({{ site.baseurl }}/assets/img/CMF.jpeg)
+<br>
+<hr style= "background:rgba(255,255,255,0.7);">
 
                                                               Crédito: Twitter
 
-En entrevista exclusiva para poder, la periodista finaliza:
+**En entrevista exclusiva para poder, la periodista finaliza:**
 
 Me puedes compartir tu nombre, tus pronombres y una breve descripción de ti y tu trabajo, por favor.
 
@@ -122,35 +137,35 @@ Estudié la licenciatura de periodismo en la Carlos Septién García y una maest
 
 Batería de preguntas:
 
-1.- ¿Cómo fue que llegaste a la investigación?
+**1.- ¿Cómo fue que llegaste a la investigación?**
 
 Era abril en la Ciudad de México y se acercaba el aniversario de la reforma de la Ley de Salud que a partir de 2007 permitió la Interrupción Legal del Embarazo. Mis condiciones como periodista las marcaba el independentismo (era ‘freelancer’). Debía trabajar con agilidad para cubrir el onomástico. Esa sería una de tantas entregas del mes. Las siguientes preguntas empezaron a danzar: ¿Qué pasa en las calles respecto a ese día? ¿Se celebra? ¿Se critica? Una búsqueda mediante la herramienta ‘Google advanced’ arrojó que en abril de cada año, en la capital del país había manifestaciones, decenas de manifestaciones. Manifestaciones en contra de la legislación que aprueba la interrupción del embarazo en las primeras semanas de gestación. Lo que siguió fue listar qué grupos habían marchado en los últimos años con esta causa. Entonces, se indagó sobre su esencia. ¿Quiénes eran? ¿Quiénes los dirigen? Surgió otra pregunta: ¿Cuánto dinero manejan? La revisión de los reportes de donatarias autorizadas ante la Secretaría de Hacienda brindó montos y un cálculo de su dinero. En el periodismo de datos, los datos a veces son material de acompañamiento –una suerte de ornamento–, pero en otras, son los protagonistas. Aquí se convirtieron en el elemento principal dado que el hallazgo fue una cantidad de millones de pesos en una década. Así surgió una nota de datos abiertos cuya hechura tomó una semana.
 
 
-2.- ¿Por qué crees importante investigar a las organizaciones antiderechos?
+**2.- ¿Por qué crees importante investigar a las organizaciones antiderechos?**
 
 Porque tienen importancia como cualquier otro actor de la vida pública y su quehacer genera un abanico de interrogantes, materia prima periodística.
 
 
-3.- ¿Cuál fue el principal reto de este reportaje?
+**3.- ¿Cuál fue el principal reto de este reportaje?**
 
 La identificación de las organizaciones como antiabortistas. En sus registros ninguna admite esa causa.
 
-4.- ¿Consideras que estos grupos tienen influencia real en la vida pública?
+**4.- ¿Consideras que estos grupos tienen influencia real en la vida pública?**
 
 La tienen y es considerable. A través del Partido Acción Nacional están representados en el Congreso. Además, como dijo el investigador Édgar González Ruiz en entrevista para la nota,
 buena parte de la clase política y el empresariado aún comulga con el conservadurismo histórico.
 
-5.- ¿Qué opinión tienes sobre las relaciones entre Estado, Religión y Empresas?
+**5.- ¿Qué opinión tienes sobre las relaciones entre Estado, Religión y Empresas?**
 
 En cuanto a la relación Estado-religión, me apego a la frase bíblica: “... Al César lo que es del César, y a Dios lo que es de Dios”. Como también hay que aludir a las empresas, me permito reelaborar: “ ... Al César lo que es del César, a Dios lo que es de Dios y lo suyo al que da trabajo con justicia y conciencia social”.
 
 
-6.- Consideras que los mecanismos de transparencia actuales son suficientes para la investigación de estos grupos de poder.
+**6.- Consideras que los mecanismos de transparencia actuales son suficientes para la investigación de estos grupos de poder.**
 
 Si bien en México se cuenta con una palestra de mecanismos de transparencia, todos tienen límites. Para seguir la ruta del dinero de las organizaciones civiles, hay que revisar los reportes de donatarias autorizadas ante la Secretaría de Hacienda. Esos documentos sólo presentan si los donativos fueron en efectivo o especie, o si provinieron del país o el exterior. Pero está ausente la identidad de los donadores. Ahora, esta ausencia –que en términos de transparencia es una carencia– puede detonar la investigación periodística.
 
-7.- Recibiste alguna agresión por publicar temas referentes a minorías
+**7.- Recibiste alguna agresión por publicar temas referentes a minorías**
 
 En realidad, no. Recuerdo como reacción a la nota que un usuario de Twitter hizo su propio ejercicio de búsqueda de donativos de las organizaciones civiles que han apoyado la la Interrupción Legal del Embarazo. También una activista feminista, Pilar Muriedas, señaló que no eran grupos “pro-vida”. Me arrobaron. Y eso fue todo.
 
@@ -200,7 +215,9 @@ En realidad, no. Recuerdo como reacción a la nota que un usuario de Twitter hiz
 <br>
 <hr style= "background:rgba(255,255,255,0.7);">
 
-Descargue [aquí]() la base de datos de empresas, asociaciones civiles sin fines de lucro o personas físicas que recibieron fondos del Estado, donaciones privadas o recursos en especia (también de origen privado) en México durante el periodo correspondiente al 2022.
+_________________________________________________________________________________________________________________________________________________________
+
+Descargue [aquí](https://share.mayfirst.org/apps/onlyoffice/s/HoQc6ioondej5Tg?fileId=18601290) la base de datos de empresas, asociaciones civiles sin fines de lucro o personas físicas que recibieron fondos del Estado, donaciones privadas o recursos en especia (también de origen privado) en México durante el periodo correspondiente al 2022.
 
 *Independientemente de cualquier posición que se pueda tener respecto al aborto, movimientos feministas o la población de las minorías sexuales, lo aquí mencionado, no desacredita todo tipo de trabajo social de las asociaciones o empresas mencionadas en esta investigación.*
 
