@@ -215,7 +215,9 @@ En realidad, no. Recuerdo como reacción a la nota que un usuario de Twitter hiz
 <br>
 <hr style= "background:rgba(255,255,255,0.7);">
 
-Descargue [aquí]() la base de datos de empresas, asociaciones civiles sin fines de lucro o personas físicas que recibieron fondos del Estado, donaciones privadas o recursos en especia (también de origen privado) en México durante el periodo correspondiente al 2022.
+_________________________________________________________________________________________________________________________________________________________
+
+Descargue [aquí](https://share.mayfirst.org/apps/onlyoffice/s/HoQc6ioondej5Tg?fileId=18601290) la base de datos de empresas, asociaciones civiles sin fines de lucro o personas físicas que recibieron fondos del Estado, donaciones privadas o recursos en especia (también de origen privado) en México durante el periodo correspondiente al 2022.
 
 *Independientemente de cualquier posición que se pueda tener respecto al aborto, movimientos feministas o la población de las minorías sexuales, lo aquí mencionado, no desacredita todo tipo de trabajo social de las asociaciones o empresas mencionadas en esta investigación.*
 
