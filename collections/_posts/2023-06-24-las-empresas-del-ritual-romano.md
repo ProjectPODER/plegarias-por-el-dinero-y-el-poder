@@ -20,7 +20,7 @@ Desde [2015](https://www.ohchr.org/en/statements/2015/05/discriminated-and-made-
 Nada que corregir. Para el doctor en Derechos Humanos y Paz, Rodolfo Bañuelos de la universidad ITESO en Guadalajara, el conocer el trasfondo de estas organizaciones es el resultado del trabajo y años de investigación con la que intenta demostrar las implicaciones que tienen las Terapias de Conversión en la población LGBTTTIQ+, y a las que él llama: Intervenciones para Heteronormar la Identidad de Género y la Orientación Sexual (IHEGOS).
 
 {:.image-post}
-![Dani Scharf]({{ site.baseurl }}/assets/img/Empresas de la fe_01.jpg)
+![MALTEGO]({{ site.baseurl }}/assets/img/Empresas de la fe_01.jpg)
 
                                                             Crédito: Ricardo Balderas/PODER
 
@@ -49,6 +49,11 @@ Además de los espacios religiosos y terapéuticos donde se practican los ECOSIG
 En la última visita a México del Comité contra la Desaparición Forzada de la ONU se [informó](https://hchr.org.mx/wp/wp-content/uploads/2022/04/Informe-de-visita-a-MX-del-Comite-contra-la-Desaparicion-Forzada-abril-2022.pdf) sobre la [desaparición de persona LGBTTTIQ+](https://agenciapresentes.org/2023/05/22/mexico-crean-el-primer-registro-y-documentacion-de-personas-lgbt-desaparecidas/) y que éstas “habrían sido cometidas por fuerzas de seguridad, o por la delincuencia organizada con distintos niveles de connivencia de las autoridades, y en muchos casos con fines de ‘limpieza social’ o de explotación sexual, frecuentemente tras el internamiento en los llamados ‘centros de terapias de reconversión’”.
 
 Es así como las prácticas para reprimir la orientación sexual e identidad de género de las personas también se cruzan en el contexto de violencia generalizada que comenzó en 2006 al implementarse la estrategia de seguridad militarizada y que hoy día mantiene al país sumido en una crisis de derechos humanos con más de 111 mil personas desaparecidas y al estado de Jalisco como uno de los territorios en donde más se desaparece a personas.
+
+{:.image-post}
+![ONU]({{ site.baseurl }}/assets/img/ONU_DESAPARICIÓN_FORZADA.png)
+
+                                                            Crédito: Ricardo Balderas vía transparencia
 
 
 ## La creación de un delito, vacíos legales y multas que se pagan con tortura
