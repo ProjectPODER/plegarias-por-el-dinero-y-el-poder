@@ -3,7 +3,6 @@
 	z-index:9999;
 	.nav-item {
 		margin: 5px 1px 0;
-		background-color: indigo;
 	}
 	.nav-link {
 		@extend .bg-dark;
@@ -11,9 +10,21 @@
 		padding-right: 1rem !important;
 		border-radius: 0.25rem;
 		transition: padding 0s;
+		background-image: linear-gradient(to left, indigo, indigo) !important;
+		-webkit-background-clip: padding-box !important;
+		-moz-background-clip: padding-box !important;
+		background-clip: padding-box !important;
+		color: #ffffff;
 	}
 	.navbar-nav .active > .nav-link {
 		background-color: $primary !important;
 	}
 }
 
+.navbar-dark .navbar-nav .nav-link {
+	color: rgba(255, 255, 255, 1);
+}
+
+.nav-iframe .navbar-nav .active>.nav-link {
+	background-image: linear-gradient(to left, green, green) !important;
+}
