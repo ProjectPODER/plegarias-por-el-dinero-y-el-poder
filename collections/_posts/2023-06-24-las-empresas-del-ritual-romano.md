@@ -100,6 +100,29 @@ Y agrega que para ella es vital conversar con otros movimientos sociales; desde 
 
 “Creo que sí tenemos que preguntarnos qué tanto está funcionando la creación de un delito. Necesitamos esos diálogos porque la realidad es que todo el sistema penal en México está en el hoyo. Y también nos hace falta mucha autocrítica al interior de los movimientos; yo sí creo que necesitamos tener transparencia y rendición de cuentas de los fondos que recibimos por hacer una labor social y como tal dar cuentas de qué estamos haciendo y en qué lo estamos usando”, finalizó.
 
+
+<div id="carouselControls2" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/Estados donde se tipifican los ECOSIG en el Código Penal.png" alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/Mención de ECOSIG en Ley para Eliminar la Discriminación(1).png" alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/Reformas a Ley de Salud para sancionar los ECOSIG.png" alt="Third slide">
+    </div>
+  </div>
+  <div class="carousel-control-prev" href="#carouselControls2" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </div>
+  <div class="carousel-control-next" href="#carouselControls2" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </div>
+</div>
+
 ## Las empresas del Ritual Romano
 
 Han pasado ya más de catorce años desde que se denunció a estos grupos por realizar tortura, principalmente a menores de edad que se identifican como integrantes de la comunidad LGBTTTIQ+. Muchos de los cuales, se quitaron la vida luego de ser sometidos a estas prácticas.
