@@ -48,7 +48,7 @@ Sobre los registros de actores, se analizaron documentos de la Secretaría de Ec
 - Desarrollo back-end: Marisol Carrillo
 - Visualización de datos y material fotográfico: Ricardo Balderas.
 
-Agradecemos a los equipos de PODER, Presentes y Altavoz por confiar en el desarrollo de este proyecto, en especial al equipo de investigación de PODER por sus ideas, acompañamiento y solidaridad. Por compartir la posibilidad de un mundo más justo donde todes seamos parte de la democracia y la vida pública.
+Agradecemos a los equipos de [PODER] (https://poderlatam.org/), [Presentes] (https://agenciapresentes.org/) y [Altavoz LBGT+] (https://altavoz.lgbt/) por confiar en el desarrollo de este proyecto, en especial al equipo de investigación de PODER por sus ideas, acompañamiento y solidaridad. Por compartir la posibilidad de un mundo más justo donde todes seamos parte de la democracia y la vida pública.
 
 
 
