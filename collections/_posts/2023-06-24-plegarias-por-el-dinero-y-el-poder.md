@@ -41,7 +41,7 @@ A pesar de los millonarios y poderosos integrantes del Consejo Directivo, FUCAM 
 {:.image-post}
 ![INFORME_CNDH]({{ site.baseurl }}/assets/img/CNDH_IHEGOS.png)
 
-                                                            Crédito: Ricardo Balderas vía transparencia.
+                                                    Crédito: Ricardo Balderas vía transparencia.
 
 Al respecto, la senadora Lilly Téllez, del Partido Acción Nacional, envió una carta dirigida a Hugo López-Gatell, subsecretario de salud, reclamando por la pronta atención de las 15 mujeres que eran víctimas de la insuficiencia del sector salud por atender de manera legítima las necesidades de estas personas.
 
