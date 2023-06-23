@@ -34,9 +34,9 @@ La invitación a personajes polémicos, como Norberto Rivera, a formar parte de 
 A pesar de los millonarios y poderosos integrantes del Consejo Directivo, FUCAM aparece en la discusión pública actual debido a una manifestación realizada en las afueras de Palacio Nacional cuando la institución se negó a recibir a mujeres que no estuvieran adscritas al sistema de FUCAM antes del 31 de diciembre de 2019 a pesar de los acuerdos instaurados entre la fundación y el ahora extinto Instituto de Salud para el Bienestar (INSABI)[^nota5].
 
 {:.image-post}
-![]({{ site.baseurl }}/assets/img/)
+![INFORME_CNDH]({{ site.baseurl }}/assets/img/CNDH_IHEGOS.png)
 
-[IMAGEN_CNDH]
+Crédito: Ricardo Balderas vía transparencia.
 
 Al respecto, la senadora Lilly Téllez, del Partido Acción Nacional, envió una carta dirigida a Hugo López-Gatell, subsecretario de salud, reclamando por la pronta atención de las 15 mujeres que eran víctimas de la insuficiencia del sector salud por atender de manera legítima las necesidades de estas personas.
 
