@@ -18,6 +18,11 @@ En total, PODER pudo identificar a 48 razones sociales denominadas como: asociac
 
 Te puede interesar: [Cristo y los mercaderes: Legionarios después de Maciel](https://poderlatam.org/2023/05/cristo-y-los-mercaderes-legionarios-despues-de-maciel-segunda-parte/)
 
+{:.image-post}
+![D_S]({{ site.baseurl }}/assets/img/_ORIGINAL PODER LATAM - PLEGARIAS POR EL PODER - 1300 x800 FULL.jpg)
+
+                                                            Crédito: Dani Scharf
+
 
 ## La salud de la mujer como pretexto para juntar millonarios
 
@@ -43,9 +48,9 @@ Al respecto, la senadora Lilly Téllez, del Partido Acción Nacional, envió una
 El tema derivó en una respuesta emitida por el titular de comunicación social de Presidencia de la República, Jesús Ramírez Cuevas, vía redes sociales en el que argumentó que: “Ninguna mujer que se atiende en la fundación FUCAM quedará sin atención. Están garantizados tratamientos y medicamentos de todas las pacientes. FUCAM es financiada en su totalidad con recursos públicos, es decir, dinero de todos los mexicanos”[^nota6].
 
 {:.image-post}
-![INFORME_CNDH]({{ site.baseurl }}/assets/img/Jesús.png)
+![Jesús Ramírez]({{ site.baseurl }}/assets/img/Jesús.png)
 
-Crédito: Twitter
+                                                            Crédito: Twitter
 
 Hasta el momento, la atención temprana a pacientes que viven con cáncer de mama continúa siendo un reto para la administración de AMLO.
 
