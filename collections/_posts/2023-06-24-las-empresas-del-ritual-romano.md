@@ -22,7 +22,7 @@ Nada que corregir. Para el doctor en Derechos Humanos y Paz, Rodolfo Bañuelos d
 {:.image-post}
 ![MALTEGO]({{ site.baseurl }}/assets/img/Empresas de la fe_01.jpg)
 
-                                                      Crédito: Ricardo Balderas/PODER
+                                                    Crédito: Ricardo Balderas/PODER
 
 ## Es tortura, no terapia
 
@@ -53,7 +53,7 @@ Es así como las prácticas para reprimir la orientación sexual e identidad de 
 {:.image-post}
 ![ONU]({{ site.baseurl }}/assets/img/ONU_DESAPARICIÓN_FORZADA.png)
 
-                                                       Crédito: Ricardo Balderas vía transparencia
+                                                  Crédito: Ricardo Balderas vía transparencia
 
 
 ## La creación de un delito, vacíos legales y multas que se pagan con tortura
@@ -123,7 +123,7 @@ Y agrega que para ella es vital conversar con otros movimientos sociales; desde 
   </div>
 </div>
 
-                                                             Crédito: Geo gonzález.
+                                                            Crédito: Geo gonzález.
 
 ## Las empresas del Ritual Romano
 
