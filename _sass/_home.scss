@@ -1,5 +1,5 @@
 .multicolorbtn {
-    background: linear-gradient(to left, indigo, blue, green, #FFD700, orange, red) !important;
+    background: linear-gradient(to left, indigo, blue, green, #FFD700, orange, red);
     color: #ffffff;
     border: none ;
 }
@@ -40,6 +40,10 @@
         @extend .multicolorbtn;
         margin: 2rem 0.5rem 1rem 0.5rem;
         font-weight: bold;
+        transition: all .35s;
+        &:hover {
+            background-image: linear-gradient(to left, red, red);
+        }
     }
 }
 
